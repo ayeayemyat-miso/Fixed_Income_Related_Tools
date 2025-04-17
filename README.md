@@ -84,5 +84,5 @@
 ---
 
 - **Credits**:  
-  - VBA code adapted from [Vinegarhill Finance Labs](https://sites.google.com/...).  
+  - VBA code adapted from [Vinegarhill Finance Labs]
 
