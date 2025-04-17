@@ -21,7 +21,7 @@
 ### 1. Bond Price and Duration Calculator  
 **Excel Tab**: `Bond Price, Bond Duration`  
 **Tools**:  
-- **VBA**: Bond logic (adapted from[https://sites.google.com/view/vinegarhillfinancelabs/fixedincomeanalysis/bondpricing)).  - **Python**: Verification in Google Collab.  
+- **VBA**: Bond logic (adapted from[https://sites.google.com/view/vinegarhillfinancelabs/fixedincomeanalysis/bondpricing)).  - **Python**: Verification in Google Colab.  
 
 🔗 [Google Colab Verification](https://colab.research.google.com/drive/14a0CRqP0o4TSnR7F-iFQWh9PZP4qYCK9?usp=sharing
 ![image](https://github.com/user-attachments/assets/8794e2be-403e-4ded-bb39-7530fbee5096)
@@ -33,7 +33,7 @@
 **Excel Tab**: `YTM`  
 **Tools**:  
 - **VBA**: Bisection method.  
-- **Python**: Verification in Google Collab.
+- **Python**: Verification in Google Colab.
 
 🔗 [Google Colab Verification](https://colab.research.google.com/drive/1BPvYBnOHT7mfpe76LljwbRgFu7g4Q8ZM?usp=sharing)  
 
@@ -43,7 +43,7 @@
 **Excel Tab**: `mortgage`  
 **Tools**:  
 - **VBA**: Amortization schedule.  
-- **Python**: Verification in Google Collab.
+- **Python**: Verification in Google Colab.
 
 🔗 [Google Colab Verification](https://colab.research.google.com/drive/1ijgVt_JSsbXT2OyHDRQ8WostEWxmqOXi?usp=sharing)  
 
@@ -53,7 +53,7 @@
 **Excel Tab**: `Black 1976`  
 **Tools**:  
 - **VBA**: Black’s model implementation.  
-- **Python**: Verification in Google Collab.
+- **Python**: Verification in Google Colab.
 
 🔗 [Google Colab Verification](https://colab.research.google.com/drive/1JQMNMA6d6aGGGHwFngY7B0g5xoq9GTAP?usp=sharing) 
 
@@ -62,7 +62,7 @@
 ### 5. Portfolio Risk Analysis (VaR/CVaR)  
 **Excel Tab**: `Portfolio Risk`  
 **Tools**:  
-- **Python**: Verification in Google Collab.
+- **Python**: Verification in Google Colab.
 
 🔗 [Google Colab Verification](https://colab.research.google.com/drive/1ZSnG46UNegpvEW_qRaeUPfGKrXB3syRn?usp=sharing)
 
