@@ -80,10 +80,11 @@
 
 ## 🛠️ How to Use  
 1. **Master Excel File**:  
-   - Download from [Google Drive](https://drive.google.com/file/d/1R8KbiCtaE-a2TlPt_T3F89Y6DqSPT_QG/view?usp=drive_link).
+   - Download from [Google Drive](https://docs.google.com/spreadsheets/d/1zyjXtWZ3AF7TNCGX0SMIFHdeBYUxeMXB/edit?usp=sharing&ouid=115337222374551152231&rtpof=true&sd=true). 
    - Macros are disabled by default – enable them for full functionality.  
 2. **Google Colab**:  
-   - Click the links above to run Python code for each topic.  
+   - Click the links above to access the google colab and run Python code for each topic.
+   - (Or) Click the links through master excel file to access the google colab and run Python code for each topic. 
 
 ---
 
