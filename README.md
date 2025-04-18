@@ -10,10 +10,14 @@
 ---
 
 ## 🔗 Download the Master Excel File  
-[📥 **Download Master Excel File (Macro-Enabled)**](https://drive.google.com/file/d/1R8KbiCtaE-a2TlPt_T3F89Y6DqSPT_QG/view?usp=drive_link).   
+[📥 **Download Master Excel File (Macro-Enabled)**](https://docs.google.com/spreadsheets/d/1zyjXtWZ3AF7TNCGX0SMIFHdeBYUxeMXB/edit?usp=sharing&ouid=115337222374551152231&rtpof=true&sd=true).   
 **Instructions**:  
 1. Enable macros: `File > Options > Trust Center > Enable Macros`.  
-2. Navigate using tabs of Home Page Sheet (e.g., "Bond Pricing", "VaR Analysis").  
+2. Navigate using tabs of Home Page Sheet (e.g., "Bond Pricing", "VaR Analysis").
+
+## Demo: How to Use the Tools  
+![Demo of Fixed Income Tools](https://raw.githubusercontent.com/ayeayemyat-miso/Fixed_Income_Related_Tools/main/Fixed_income_Related_Tools(sample_Guidance_to_access_link).gif)  
+*Step-by-step guide to accessing macros and verifying results in Python.*
 
 ---
 
